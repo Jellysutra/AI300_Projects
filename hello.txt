@@ -3,3 +3,5 @@ this is just an experiment
 i want to add a new line to prove that git works
 
 try again?
+
+i am trying it on a different computer now
